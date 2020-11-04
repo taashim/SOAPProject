@@ -1,0 +1,8 @@
+Status: FAILED
+Time Taken: 1969
+Size: 0
+Timestamp: Wed Nov 04 09:50:22 IST 2020
+TestStep: JDBC Request
+
+----------------- Messages ------------------------------
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)

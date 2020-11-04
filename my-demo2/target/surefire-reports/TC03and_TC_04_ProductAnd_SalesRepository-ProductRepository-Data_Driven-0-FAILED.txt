@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 371
+Size: 0
+Timestamp: Wed Nov 04 09:50:25 IST 2020
+TestStep: Data Driven
+Error:java.io.FileNotFoundException: C:\Users\BinitaRawat\Desktop\API-Testing-Batch-3\WSDL Project-Week 1\SKUIdFile.xls (The system cannot find the path specified)
+
+----------------- Messages ------------------------------
+java.io.FileNotFoundException: C:\Users\BinitaRawat\Desktop\API-Testing-Batch-3\WSDL Project-Week 1\SKUIdFile.xls (The system cannot find the path specified)
+error at line: 13
